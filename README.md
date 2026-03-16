@@ -1,27 +1,27 @@
-# Hi there 👋
+# Merhaba there 👋
 
-I'm **AyberkA0**, a developer building data-driven systems, automation platforms, trading infrastructure, and experimental software tools.
+![Profile Views](https://komarev.com/ghpvc/?username=AyberkA0&color=blue&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/AyberkA0?affiliations=OWNER&style=flat)
+![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/AyberkA0)
 
-My work focuses on systems where **AI, real-time data, and user-defined logic interact to automate complex processes**. I’m particularly interested in **advanced mathematics, statistics, and quantitative trading**.
-
----
-
-# 💼 What I Do
-
-* Building **AI-assisted platforms** that analyze data streams and execute user-defined conditions
-* Designing **automation systems** that combine APIs, real-time data, and decision logic
-* Developing **desktop, mobile, and web software systems**
-* Creating **custom scripting environments, execution engines, and visual editors**
-* Integrating **LLM APIs** for automation, analysis, and decision support
-* Building **data ingestion pipelines** that collect, process, and structure information from multiple sources
-* Exploring **quantitative approaches to financial markets** using statistical and mathematical modeling
-* Designing **real-time architectures** for market data, news streams, and automated triggers
+<a href="https://github.com/AyberkA0">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AyberkA0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkA0&layout=compact&hide_border=true"/>
+</a>
 
 ---
 
-# 🧠 Tech Stack
+I'm **AyberkA0**, a developer building **data-driven systems, automation platforms, trading infrastructure, and experimental software tools**.
 
-### Languages
+My work focuses on systems where **AI, real-time data, and user-defined logic interact to automate complex processes**.
+
+I’m particularly interested in **advanced mathematics, statistics, machine learning and quantitative trading**.
+
+---
+
+# 🧠 My Stack
+
+## Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
@@ -35,7 +35,7 @@ My work focuses on systems where **AI, real-time data, and user-defined logic in
 
 ---
 
-### Backend & Systems
+## Backend & Systems
 
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
@@ -44,71 +44,66 @@ My work focuses on systems where **AI, real-time data, and user-defined logic in
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-000?&logo=Ruby-on-Rails)
 ![Loco.rs](https://img.shields.io/badge/-Loco.rs-000?&logo=Rust)
-<p>and Microservice architectures • Event-driven systems • Asynchronous processing</p>
+
+Microservice architectures • Event-driven systems • Asynchronous processing
 
 ---
 
-### Infrastructure
+## Infrastructure
 
 ![Podman](https://img.shields.io/badge/-Podman-000?&logo=Podman)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-<p>and Reverse proxy architectures • Server orchestration • Service isolation</p>
+
+Reverse proxy architectures • Server orchestration • Service isolation
 
 ---
 
-### Databases
+## Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
-<p style="font-size: 6px">and Distributed caching patterns</p>
+
+Distributed caching patterns
 
 ---
 
-### Real-Time Systems
+## Real-Time Systems
 
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000?&logo=Socket.io)
-<p>and Streaming pipelines • Event queues • Background workers • Task schedulers</p>
+
+Streaming pipelines • Event queues • Background workers • Task schedulers
 
 ---
 
-### Data Engineering
+# 🤖 Machine Learning
 
-![Python](https://img.shields.io/badge/-Data%20Pipelines-000?&logo=Python)
-<p>and Data ingestion pipelines • Web scraping infrastructure • Real-time data processing • Structured data pipelines • Market data processing</p>
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 
----
-
-### AI & Intelligent Systems
-
-![OpenAI](https://img.shields.io/badge/-LLM%20APIs-000?&logo=OpenAI)
-<p>and LLM API integrations • AI-assisted automation • Decision support systems • Prompt-driven workflows</p>
+Deep learning experiments • predictive modeling • ML pipelines • feature engineering • model evaluation
 
 ---
 
-### Software Architecture
+# 📊 Quant & Mathematical Systems
 
-Modular system design • Scalable backend architecture • API-first systems • Automation infrastructure
+![Statistics](https://img.shields.io/badge/-Statistics-000)
+![Probability](https://img.shields.io/badge/-Probability%20Theory-000)
+![Stochastic Processes](https://img.shields.io/badge/-Stochastic%20Processes-000)
+![Optimization](https://img.shields.io/badge/-Optimization-000)
+![Financial Modeling](https://img.shields.io/badge/-Financial%20Modeling-000)
+![Time Series](https://img.shields.io/badge/-Time%20Series%20Analysis-000)
+![Quant Trading](https://img.shields.io/badge/-Quantitative%20Trading-000)
 
----
-
-### Developer Tooling
-
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-
-API testing • Developer tooling design • Custom editors
-
----
-
-### Quant & Analytical Systems
-
-Quantitative trading infrastructure • Statistical modeling experiments • Financial data analysis • Market data pipelines
+Quantitative trading infrastructure • statistical modeling • market data analysis • financial data pipelines
 
 ---
 
@@ -116,14 +111,13 @@ Quantitative trading infrastructure • Statistical modeling experiments • Fin
 
 ### **UPIS Delta** [in progress]
 
-An AI-powered system where users define trading conditions and automation rules while the platform processes **real-time market data and financial news streams** to trigger actions. Includes autonomous web scraping, optimized data storing, highly secured and scalable infrastructure.
+An AI-powered system where users define trading conditions and automation rules while the platform processes **real-time market data and financial news streams** to trigger actions. Includes autonomous web scraping, optimized data storage, highly secure and scalable infrastructure.
 
 ---
 
 ### **Down Up**
 
-An educational platform designed to help disadvantaged students access learning resources and community support.  
-Includes identity management, user-friendly usage and safety.
+An educational platform designed to help disadvantaged students access learning resources and community support. Includes identity management, user-friendly usage and safety.
 
 ---
 
@@ -135,8 +129,8 @@ A low-level and language-agnostic library that makes financial data analysis eas
 
 # 🧠 Areas of Interest
 
-Quantitative Trading • Financial Market Modeling • Data Engineering • Real-time Systems  
-Computer Vision • AI-assisted Automation • Machine Learning • Advanced Mathematics
+Quantitative Trading • Financial Market Modeling • Data Engineering  
+Real-time Systems • Machine Learning • Advanced Mathematics
 
 ---
 
