@@ -44,8 +44,7 @@ My work focuses on systems where **AI, real-time data, and user-defined logic in
 ![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-000?&logo=Ruby-on-Rails)
 ![Loco.rs](https://img.shields.io/badge/-Loco.rs-000?&logo=Rust)
-
-Microservice architectures • Event-driven systems • Asynchronous processing
+<p>and Microservice architectures • Event-driven systems • Asynchronous processing</p>
 
 ---
 
@@ -56,8 +55,7 @@ Microservice architectures • Event-driven systems • Asynchronous processing
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-
-Reverse proxy architectures • Server orchestration • Service isolation
+<p>and Reverse proxy architectures • Server orchestration • Service isolation</p>
 
 ---
 
@@ -68,32 +66,28 @@ Reverse proxy architectures • Server orchestration • Service isolation
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
-
-Distributed caching patterns
+<p>and Distributed caching patterns</p>
 
 ---
 
 ### Real-Time Systems
 
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000?&logo=Socket.io)
-
-Streaming pipelines • Event queues • Background workers • Task schedulers
+<p>and Streaming pipelines • Event queues • Background workers • Task schedulers</p>
 
 ---
 
 ### Data Engineering
 
 ![Python](https://img.shields.io/badge/-Data%20Pipelines-000?&logo=Python)
-
-Data ingestion pipelines • Web scraping infrastructure • Real-time data processing • Structured data pipelines • Market data processing
+<p>and Data ingestion pipelines • Web scraping infrastructure • Real-time data processing • Structured data pipelines • Market data processing</p>
 
 ---
 
 ### AI & Intelligent Systems
 
 ![OpenAI](https://img.shields.io/badge/-LLM%20APIs-000?&logo=OpenAI)
-
-LLM API integrations • AI-assisted automation • Decision support systems • Prompt-driven workflows
+<p>and LLM API integrations • AI-assisted automation • Decision support systems • Prompt-driven workflows</p>
 
 ---
 
