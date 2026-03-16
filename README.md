@@ -91,13 +91,16 @@ Deep learning experiments • predictive modeling • ML pipelines • feature e
 
 # 📊 Quant & Mathematical Systems
 
-![Statistics](https://img.shields.io/badge/-Statistics-000)
-![Probability](https://img.shields.io/badge/-Probability%20Theory-000)
-![Stochastic Processes](https://img.shields.io/badge/-Stochastic%20Processes-000)
-![Optimization](https://img.shields.io/badge/-Optimization-000)
+![Monte Carlo](https://img.shields.io/badge/-Monte%20Carlo-000)
+![Bayesian](https://img.shields.io/badge/-Bayesian%20Methods-000)
 ![Financial Modeling](https://img.shields.io/badge/-Financial%20Modeling-000)
 ![Time Series](https://img.shields.io/badge/-Time%20Series%20Analysis-000)
 ![Quant Trading](https://img.shields.io/badge/-Quantitative%20Trading-000)
+![Stochastic Processes](https://img.shields.io/badge/-Stochastic%20Processes-000)
+![Portfolio Optimization](https://img.shields.io/badge/-Portfolio%20Optimization-000)
+![Statistics](https://img.shields.io/badge/-Statistics-000)
+![Probability](https://img.shields.io/badge/-Probability%20Theory-000)
+![Optimization](https://img.shields.io/badge/-Optimization-000)
 
 Quantitative trading infrastructure • statistical modeling • market data analysis • financial data pipelines
 
