@@ -124,7 +124,7 @@ An educational platform designed to help disadvantaged students access learning 
 
 ### **Pinetwig**
 
-A low-level and language-agnostic library that makes financial data analysis easier, converts Pinescript codes to scalable Python codes and provides additional utilities.
+A low-level and language-agnostic library that makes financial data analysis easier, converts Pinescript codes to scalable Python codes and provides additional utilities. Includes web scraping and powerful refactoring.
 
 ---
 
