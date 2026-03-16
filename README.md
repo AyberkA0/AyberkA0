@@ -30,14 +30,6 @@ Python • Rust • C • Ruby • PineScript • JavaScript • Dart • C++
 Node.js • FastAPI • Flask • Django • Express • Loco.rs • Ruby on Rails
 Microservice architectures • Event-driven systems • Asynchronous processing
 
-### Real-Time Systems
-
-WebSockets • Streaming pipelines • Event queues • Background workers • Task schedulers
-
-### Data Engineering
-
-Data ingestion pipelines • Web scraping infrastructure • Real-time data processing • Structured data pipelines • Market data processing
-
 ### Infrastructure
 
 Podman • Docker • Kubernetes • Linux • Nginx • Reverse proxy architectures • Server orchestration • Service isolation
@@ -45,6 +37,14 @@ Podman • Docker • Kubernetes • Linux • Nginx • Reverse proxy architect
 ### Databases
 
 PostgreSQL • MongoDB • Redis • SQLite • Firestore • Distributed caching patterns
+
+### Real-Time Systems
+
+WebSockets • Streaming pipelines • Event queues • Background workers • Task schedulers
+
+### Data Engineering
+
+Data ingestion pipelines • Web scraping infrastructure • Real-time data processing • Structured data pipelines • Market data processing
 
 ### AI & Intelligent Systems
 
