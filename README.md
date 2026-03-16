@@ -73,9 +73,7 @@ Distributed caching patterns
 
 ## Real-Time Systems
 
-![WebSockets](https://img.shields.io/badge/-WebSockets-000?&logo=Socket.io)
-
-Streaming pipelines • Event queues • Background workers • Task schedulers
+WebSockets • Streaming pipelines • Event queues • Background workers • Task schedulers • gRPCs 
 
 ---
 
