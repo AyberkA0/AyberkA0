@@ -4,12 +4,12 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AyberkA0?affiliations=OWNER&style=flat)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/AyberkA0)
 
+<!-- 
 <a href="https://github.com/AyberkA0">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AyberkA0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-<!--  
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkA0&layout=compact&hide_border=true"/>
--->
 </a> 
+-->
 
 ---
 
