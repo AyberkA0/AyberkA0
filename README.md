@@ -13,11 +13,7 @@
 
 ---
 
-I'm **AyberkA0**, a developer building **data-driven systems, automation platforms, trading infrastructure, and experimental software tools**.
-
-My work focuses on systems where **AI, real-time data, and user-defined logic interact to automate complex processes**.
-
-I’m particularly interested in **advanced mathematics, statistics, machine learning and quantitative trading**.
+I'm **AyberkA0**, a developer building **data-driven systems, automation platforms, trading infrastructure, and experimental software tools**. My work focuses on systems where **AI, real-time data, and user-defined logic interact to automate complex processes**. I’m particularly interested in **advanced mathematics, statistics, machine learning and quantitative trading**.
 
 ---
 
