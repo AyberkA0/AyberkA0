@@ -79,6 +79,8 @@ WebSockets • Streaming pipelines • Event queues • Background workers • T
 
 # 🤖 Machine Learning
 
+![MLflow](https://img.shields.io/badge/-MLflow-000)
+![Ray](https://img.shields.io/badge/-Ray-000)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn)
