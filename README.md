@@ -67,7 +67,7 @@ Quantitative trading infrastructure • Statistical modeling experiments • Fin
 
 ### **UPIS Delta** [in progress]
 
-An AI-powered system where users define trading conditions and automation rules while the platform processes **real-time market data and financial news streams** to trigger actions. Includes autonomus web scraping, optimized data storing, highly secured and scalable infrastructure.
+An AI-powered system where users define trading conditions and automation rules while the platform processes **real-time market data and financial news streams** to trigger actions. Includes autonomous web scraping, optimized data storing, highly secured and scalable infrastructure.
 
 ### **Down Up**
 
