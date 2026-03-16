@@ -23,7 +23,7 @@ My work focuses on systems where **AI, real-time data, and user-defined logic in
 
 ### Languages
 
-Python • Rust • C • Ruby • PineScript • JavaScript • Dart • C++
+Python • Rust • C • Ruby • PineScript • C# • JavaScript • Dart • C++
 
 ### Backend & Systems
 
