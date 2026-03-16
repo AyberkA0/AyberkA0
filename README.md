@@ -1,4 +1,4 @@
-# Merhaba there 👋
+# Merhaba, there 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AyberkA0&color=blue&style=flat)
 ![GitHub Stars](https://img.shields.io/github/stars/AyberkA0?affiliations=OWNER&style=flat)
