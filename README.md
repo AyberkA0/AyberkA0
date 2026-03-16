@@ -27,8 +27,7 @@ Python • Rust • C • Ruby • PineScript • C# • JavaScript • Dart •
 
 ### Backend & Systems
 
-Node.js • FastAPI • Flask • Django • Express • Loco.rs • Ruby on Rails
-Microservice architectures • Event-driven systems • Asynchronous processing
+Node.js • FastAPI • Flask • Django • Express • Loco.rs • Ruby on Rails • Microservice architectures • Event-driven systems • Asynchronous processing
 
 ### Infrastructure
 
