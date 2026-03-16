@@ -66,7 +66,7 @@ My work focuses on systems where **AI, real-time data, and user-defined logic in
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
-<p>and Distributed caching patterns</p>
+<p style="font-size: 6px">and Distributed caching patterns</p>
 
 ---
 
