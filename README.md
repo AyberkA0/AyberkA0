@@ -15,8 +15,6 @@
 
 I'm **AyberkA0**, a developer building **data-driven systems, automation platforms, trading infrastructure, and experimental software tools**. My work focuses on systems where **AI, real-time data, and user-defined logic interact to automate complex processes**. I’m particularly interested in **advanced mathematics, statistics, machine learning and quantitative trading**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkA0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 # 🧠 My Stack
@@ -32,6 +30,8 @@ I'm **AyberkA0**, a developer building **data-driven systems, automation platfor
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkA0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
