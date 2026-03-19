@@ -30,7 +30,7 @@ I'm **AyberkA0**, a developer building **data-driven systems, automation platfor
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkA0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
