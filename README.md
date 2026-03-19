@@ -110,7 +110,7 @@ Quantitative trading infrastructure • statistical modeling • market data ana
 
 # 📌 Highlight Projects
 
-### **UPIS Delta** [in progress]
+### **Upis Delta** [in progress]
 
 An AI-powered system where users define trading conditions and automation rules while the platform processes **real-time market data and financial news streams** to trigger actions. Includes autonomous web scraping, optimized data storage, highly secure and scalable infrastructure.
 
