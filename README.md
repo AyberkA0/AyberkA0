@@ -4,8 +4,6 @@
 ![GitHub Stars](https://img.shields.io/github/stars/AyberkA0?affiliations=OWNER&style=flat)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/AyberkA0)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkA0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- 
 <a href="https://github.com/AyberkA0">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AyberkA0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
@@ -17,6 +15,8 @@
 
 I'm **AyberkA0**, a developer building **data-driven systems, automation platforms, trading infrastructure, and experimental software tools**. My work focuses on systems where **AI, real-time data, and user-defined logic interact to automate complex processes**. I’m particularly interested in **advanced mathematics, statistics, machine learning and quantitative trading**.
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkA0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 # 🧠 My Stack
