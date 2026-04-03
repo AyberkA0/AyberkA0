@@ -31,7 +31,7 @@ I'm **AyberkA0**, a developer building **data-driven systems, automation platfor
 ![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyberkA0&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyberkA0&layout=compact&theme=dark)
 
 ---
 
