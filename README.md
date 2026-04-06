@@ -24,11 +24,11 @@ I'm **AyberkA0**, a developer building **data-driven systems, automation platfor
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyberkA0&layout=compact&theme=dark)
