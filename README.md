@@ -154,6 +154,7 @@ An **AI-powered fintech platform** where users define trading conditions through
 
 </td>
 <td width="50%">
+
 #### 📚 Down Up
 An **educational platform** connecting disadvantaged students with learning resources and community support. Features identity management, accessibility-first design, and a safety-focused architecture.
 
