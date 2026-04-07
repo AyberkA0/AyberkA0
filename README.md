@@ -173,10 +173,7 @@ A **low-level, language-agnostic library** that converts PineScript to scalable 
 </td>
 <td width="50%">
 
-#### 🎮 Spherical World `[in progress]`
-A **Unity 6000 game** featuring realistic spherical planet gravity, procedural terrain generation, third-person camera systems, and cockpit camera with layered shake physics.
 
-`C#` `Unity` `Procedural Generation` `Physics Simulation`
 
 </td>
 </tr>
