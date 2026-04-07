@@ -23,42 +23,6 @@ I don't just write code. I design **hardened, scalable architectures** — multi
 
 When I'm not engineering systems, I'm deep in **stochastic calculus, Bayesian inference, and portfolio optimization** — turning mathematical models into trading signals.
 
----
-
-<div align="center">
-
-### 🏗️ Architecture & Security — *The Obsession*
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        CLOUDFLARE (WAF/DDoS)                        │
-└──────────────────────────────┬──────────────────────────────────────┘
-                               │
-                    ┌──────────▼──────────┐
-                    │   NGINX LOAD BAL.   │
-                    └────┬───────────┬────┘
-                         │           │
-                 ┌───────▼──┐  ┌────▼───────┐
-                 │  APP SRV  │  │  APP SRV   │
-                 │    (A)    │  │    (B)     │
-                 └─────┬─────┘  └─────┬──────┘
-                       │              │
-          ┌────────────▼──────────────▼────────────────┐
-          │            PRIVATE VPC NETWORK              │
-          │                                            │
-          │  ┌──────────┐ ┌──────────┐ ┌────────────┐ │
-          │  │ AI Service│ │Exec Eng. │ │Data Server │ │
-          │  └──────────┘ └──────────┘ └────────────┘ │
-          │  ┌──────────┐ ┌──────────┐                │
-          │  │Price Scrp.│ │News Scrp.│                │
-          │  └──────────┘ └──────────┘                │
-          └────────────────────────────────────────────┘
-```
-
-> *Every service isolated. Every connection authenticated. Every byte encrypted in transit.*
-
 I design distributed systems with **defense-in-depth**: Cloudflare edge protection → Nginx reverse proxy → private VPC isolation → per-service database segmentation → Redis session encryption. No shortcuts.
 
 ---
