@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Ayberk 👋
+# Merhaba, I'm Ayberk 👋
 
 **I build fortified systems that move money.**
 
