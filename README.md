@@ -145,34 +145,31 @@ class QuantMindset:
 
 <table align="center">
 <tr>
-<td width="50%">
-
+<td colspan="2">
+ 
 #### 🔒 Upis Delta `[in progress]`
 An **AI-powered fintech platform** where users define trading conditions through natural language while the system processes **real-time market data and financial news** to execute automated strategies. Built on a **9-server distributed architecture** with private VPC isolation, multi-database segmentation, and broker API integration.
-
+ 
 `Rust` `React` `TypeScript` `PostgreSQL` `Redis` `Redpanda`
-
+ 
 </td>
 </tr>
 <tr>
 <td width="50%">
-
+ 
 #### 📚 Down Up
 An **educational platform** connecting disadvantaged students with learning resources and community support. Features identity management, accessibility-first design, and a safety-focused architecture.
-
+ 
 `Full-Stack` `Identity Management` `Community Platform`
-
+ 
 </td>
 <td width="50%">
-
+ 
 #### 🔧 Pinetwig
 A **low-level, language-agnostic library** that converts PineScript to scalable Python, making financial data analysis portable. Includes web scraping utilities and powerful code refactoring engine.
-
+ 
 `Python` `PineScript` `Financial Data` `Code Transformation`
-
-</td>
-<td width="50%">
-
+ 
 </td>
 </tr>
 </table>
