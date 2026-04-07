@@ -17,7 +17,7 @@
 
 ### `$ whoami`
 
-I'm a systems-minded developer building **real-time trading infrastructure, AI-driven automation platforms, and data-intensive fintech tools**. My work sits at the intersection of **quantitative finance, distributed systems, and machine learning** — where milliseconds matter and failure isn't an option.
+I'm a systems-minded engineer building **real-time trading infrastructure, AI-driven automation platforms, and data-intensive fintech tools**. My work sits at the intersection of **quantitative finance, distributed systems, and machine learning** — where milliseconds matter and failure isn't an option.
 
 I don't just write code. I design **hardened, scalable architectures** — multi-server VPC topologies, zero-trust networking, isolated execution engines — because in fintech, your infrastructure *is* your product.
 
