@@ -153,6 +153,8 @@ An **AI-powered fintech platform** where users define trading conditions through
 `Rust` `React` `TypeScript` `PostgreSQL` `Redis` `Redpanda`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 📚 Down Up
@@ -161,8 +163,6 @@ An **educational platform** connecting disadvantaged students with learning reso
 `Full-Stack` `Identity Management` `Community Platform`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 🔧 Pinetwig
@@ -172,8 +172,6 @@ A **low-level, language-agnostic library** that converts PineScript to scalable 
 
 </td>
 <td width="50%">
-
-
 
 </td>
 </tr>
