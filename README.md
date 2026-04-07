@@ -1,142 +1,238 @@
-# Merhaba, there 👋
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AyberkA0&color=blue&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/AyberkA0?affiliations=OWNER&style=flat)
-![Public Repos](https://img.shields.io/badge/dynamic/json?color=blue&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/AyberkA0)
+# Hey, I'm Ayberk 👋
 
-<!-- 
-<a href="https://github.com/AyberkA0">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AyberkA0&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyberkA0&layout=compact&hide_border=true"/>
-</a> 
--->
+**I build fortified systems that move money.**
 
----
+[![Profile Views](https://komarev.com/ghpvc/?username=AyberkA0&color=0d1117&style=for-the-badge&label=VISITORS)](https://github.com/AyberkA0)
+[![GitHub Stars](https://img.shields.io/github/stars/AyberkA0?affiliations=OWNER&style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github)](https://github.com/AyberkA0)
 
-I'm **AyberkA0**, a developer building **data-driven systems, automation platforms, trading infrastructure, and experimental software tools**. My work focuses on systems where **AI, real-time data, and user-defined logic interact to automate complex processes**. I’m particularly interested in **advanced mathematics, statistics, machine learning and quantitative trading**.
+<br/>
+
+*Obsessed with two things: architectures that don't break and markets that do.*
+
+</div>
 
 ---
 
-# 🧠 My Stack
+### `$ whoami`
 
-## Languages
+I'm a systems-minded developer building **real-time trading infrastructure, AI-driven automation platforms, and data-intensive fintech tools**. My work sits at the intersection of **quantitative finance, distributed systems, and machine learning** — where milliseconds matter and failure isn't an option.
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Ruby](https://img.shields.io/badge/-Ruby-000?&logo=Ruby)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b)
-![C#](https://img.shields.io/badge/-C%23-000?&logo=CSharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
-![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
+I don't just write code. I design **hardened, scalable architectures** — multi-server VPC topologies, zero-trust networking, isolated execution engines — because in fintech, your infrastructure *is* your product.
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyberkA0&layout=compact&theme=dark)
+When I'm not engineering systems, I'm deep in **stochastic calculus, Bayesian inference, and portfolio optimization** — turning mathematical models into trading signals.
 
 ---
 
-## Backend & Systems
+<div align="center">
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Express](https://img.shields.io/badge/-Express-000?&logo=Express)
-![Ruby on Rails](https://img.shields.io/badge/-Rails-000?&logo=Ruby-on-Rails)
-![Loco.rs](https://img.shields.io/badge/-Loco.rs-000?&logo=Rust)
+### 🏗️ Architecture & Security — *The Obsession*
 
-Microservice architectures • Event-driven systems • Asynchronous processing
+</div>
 
----
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        CLOUDFLARE (WAF/DDoS)                        │
+└──────────────────────────────┬──────────────────────────────────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │   NGINX LOAD BAL.   │
+                    └────┬───────────┬────┘
+                         │           │
+                 ┌───────▼──┐  ┌────▼───────┐
+                 │  APP SRV  │  │  APP SRV   │
+                 │    (A)    │  │    (B)     │
+                 └─────┬─────┘  └─────┬──────┘
+                       │              │
+          ┌────────────▼──────────────▼────────────────┐
+          │            PRIVATE VPC NETWORK              │
+          │                                            │
+          │  ┌──────────┐ ┌──────────┐ ┌────────────┐ │
+          │  │ AI Service│ │Exec Eng. │ │Data Server │ │
+          │  └──────────┘ └──────────┘ └────────────┘ │
+          │  ┌──────────┐ ┌──────────┐                │
+          │  │Price Scrp.│ │News Scrp.│                │
+          │  └──────────┘ └──────────┘                │
+          └────────────────────────────────────────────┘
+```
 
-## Infrastructure
+> *Every service isolated. Every connection authenticated. Every byte encrypted in transit.*
 
-![Podman](https://img.shields.io/badge/-Podman-000?&logo=Podman)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
-
-Reverse proxy architectures • Server orchestration • Service isolation
-
----
-
-## Databases
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
-![Firebase](https://img.shields.io/badge/-Firestore-000?&logo=Firebase)
-
-Distributed caching patterns
-
----
-
-## Real-Time Systems
-
-WebSockets • Streaming pipelines • Event queues • Background workers • Task schedulers • gRPCs 
+I design distributed systems with **defense-in-depth**: Cloudflare edge protection → Nginx reverse proxy → private VPC isolation → per-service database segmentation → Redis session encryption. No shortcuts.
 
 ---
 
-# 🤖 Machine Learning
+<div align="center">
 
-![MLflow](https://img.shields.io/badge/-MLflow-000)
-![Ray](https://img.shields.io/badge/-Ray-000)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
-![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
+### 🧠 Languages & Core Stack
 
-Deep learning experiments • predictive modeling • ML pipelines • feature engineering • model evaluation
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=CE422B)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge&logo=ruby&logoColor=CC342D)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
+![PineScript](https://img.shields.io/badge/PineScript-0d1117?style=for-the-badge&logo=tradingview&logoColor=white)
 
----
+<br/>
 
-# 📊 Quant & Mathematical Systems
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyberkA0&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="320" />
 
-![Monte Carlo](https://img.shields.io/badge/-Monte%20Carlo-000)
-![Bayesian](https://img.shields.io/badge/-Bayesian%20Methods-000)
-![Financial Modeling](https://img.shields.io/badge/-Financial%20Modeling-000)
-![Time Series](https://img.shields.io/badge/-Time%20Series%20Analysis-000)
-![Quant Trading](https://img.shields.io/badge/-Quantitative%20Trading-000)
-![Stochastic Processes](https://img.shields.io/badge/-Stochastic%20Processes-000)
-![Portfolio Optimization](https://img.shields.io/badge/-Portfolio%20Optimization-000)
-![Statistics](https://img.shields.io/badge/-Statistics-000)
-![Probability](https://img.shields.io/badge/-Probability%20Theory-000)
-![Optimization](https://img.shields.io/badge/-Optimization-000)
-
-Quantitative trading infrastructure • statistical modeling • market data analysis • financial data pipelines
+</div>
 
 ---
 
-# 📌 Highlight Projects
+<div align="center">
 
-### **Upis Delta** [in progress]
+### ⚙️ Infrastructure & Backend
 
-An AI-powered system where users define trading conditions and automation rules while the platform processes **real-time market data and financial news streams** to trigger actions. Includes autonomous web scraping, optimized data storage, highly secure and scalable infrastructure.
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**Backend Frameworks**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express)
+![Rails](https://img.shields.io/badge/Rails-0d1117?style=flat-square&logo=rubyonrails)
+![Loco.rs](https://img.shields.io/badge/Loco.rs-0d1117?style=flat-square&logo=rust)
+
+</td>
+<td align="center" width="33%">
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker)
+![Podman](https://img.shields.io/badge/Podman-0d1117?style=flat-square&logo=podman)
+![Kubernetes](https://img.shields.io/badge/K8s-0d1117?style=flat-square&logo=kubernetes)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux)
+
+</td>
+<td align="center" width="33%">
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite)
+![Firebase](https://img.shields.io/badge/Firestore-0d1117?style=flat-square&logo=firebase)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`WebSockets` · `Event Queues` · `Streaming Pipelines` · `gRPC` · `Task Schedulers` · `Background Workers`
+
+</div>
 
 ---
 
-### **Down Up**
+<div align="center">
 
-An educational platform designed to help disadvantaged students access learning resources and community support. Includes identity management, user-friendly usage and safety.
+### 📐 Quantitative Finance — *The Other Obsession*
+
+</div>
+
+```python
+class QuantMindset:
+    """If you can't model it, you can't trade it."""
+
+    domains = [
+        "Stochastic Processes",
+        "Monte Carlo Simulation",
+        "Bayesian Inference",
+        "Time Series Analysis",
+        "Portfolio Optimization",
+        "Financial Modeling",
+        "Statistical Arbitrage",
+    ]
+
+    tools = ["PyTorch", "TensorFlow", "Scikit-Learn", "Pandas", "NumPy", "Ray", "MLflow"]
+
+    principle = "Markets are noisy. Math is not. Build on math."
+```
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
+
+> Deep learning experiments · predictive modeling · ML pipelines · feature engineering · model evaluation
 
 ---
 
-### **Pinetwig**
+<div align="center">
 
-A low-level and language-agnostic library that makes financial data analysis easier, converts Pinescript codes to scalable Python codes and provides additional utilities. Includes web scraping and powerful refactoring.
+### 📌 Featured Projects
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🔒 Upis Delta `[in progress]`
+An **AI-powered fintech platform** where users define trading conditions through natural language while the system processes **real-time market data and financial news** to execute automated strategies. Built on a **9-server distributed architecture** with private VPC isolation, multi-database segmentation, and broker API integration.
+
+`Rust` `React` `TypeScript` `PostgreSQL` `Redis` `Redpanda`
+
+</td>
+<td width="50%">
+
+#### 📚 Down Up
+An **educational platform** connecting disadvantaged students with learning resources and community support. Features identity management, accessibility-first design, and a safety-focused architecture.
+
+`Full-Stack` `Identity Management` `Community Platform`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔧 Pinetwig
+A **low-level, language-agnostic library** that converts PineScript to scalable Python, making financial data analysis portable. Includes web scraping utilities and powerful code refactoring engine.
+
+`Python` `PineScript` `Financial Data` `Code Transformation`
+
+</td>
+<td width="50%">
+
+#### 🎮 Spherical World `[in progress]`
+A **Unity 6000 game** featuring realistic spherical planet gravity, procedural terrain generation, third-person camera systems, and cockpit camera with layered shake physics.
+
+`C#` `Unity` `Procedural Generation` `Physics Simulation`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 Areas of Interest
+<div align="center">
 
-Quantitative Trading • Financial Market Modeling • Data Engineering  
-Real-time Systems • Machine Learning • Advanced Mathematics
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyberkA0&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AyberkA0&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
+
+</div>
 
 ---
 
-# ✉️ Contact
+<div align="center">
 
-You can't contact :/ for now.
+*"The goal isn't to predict the market. It's to build a system that adapts faster than the market changes."*
+
+</div>
