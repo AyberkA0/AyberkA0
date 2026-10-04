@@ -4,4 +4,4 @@
 
 <img src="https://img.shields.io/github/stars/AyberkA0?label=Stars" alt="stars">
 
-[![Dhanushka Medium](https://github-readme-medium.vercel.app/?username=ayberkatalaypersonal)](https://medium.com/@ayberkatalaypersonal)
+[![Dhanushka Medium](https://github-readme-medium.vercel.app/?username=ayberka0)](https://medium.com/@ayberkatalaypersonal)
