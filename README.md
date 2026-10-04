@@ -5,6 +5,8 @@
   <img src="https://readmewidgets.dev/AyberkA0/views?v=1" width="29%" />
 </p>
 
+<img src="https://readmewidgets.dev/AyberkA0/github-stats?v=1" width="33%" alt="GitHub Stats"/>
+
 <!--- 
 
 <img src="https://img.shields.io/github/stars/AyberkA0?label=Stars" alt="stars"> <img alt="followers" src="https://img.shields.io/github/followers/AyberkA0?label=Followers&style=social"> 
