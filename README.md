@@ -1,4 +1,4 @@
-# Merhaba, I'm Ayberk
+![Banner](https://readmewidgets.dev/AyberkA0/banner?v=1)
 
 <img src="https://img.shields.io/github/stars/AyberkA0?label=Stars" alt="stars"> <img alt="followers" src="https://img.shields.io/github/followers/AyberkA0?label=Followers&style=social"> 
 
