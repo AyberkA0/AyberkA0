@@ -1,6 +1,6 @@
 ![Banner](https://readmewidgets.dev/AyberkA0/banner?v=1)
 
-<table>
+<table style="border: none;">
   <tr>
     <td width="67%" align="center">
       <img src="https://readmewidgets.dev/AyberkA0/github-stats?v=1" width="100%" />
