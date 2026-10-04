@@ -1,3 +1,5 @@
+![Banner](https://readmewidgets.dev/AyberkA0/banner?v=1)
+
 <p align="center">
   <img src="https://readmewidgets.dev/AyberkA0/github-stats?v=1" width="67%" />
   <span width="32%">
