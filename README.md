@@ -5,7 +5,7 @@
   <img src="https://readmewidgets.dev/AyberkA0/views?v=1" width="32%" />
 </p>
 
-[![Crypto Payment](https://paybadge.profullstack.com/badge.svg)](https://paybadge.profullstack.com/?tickers=btc,eth,sol&recipient_addresses=btc:bc1qhae9un6j8mel5xcrd4trajm65wfunlltkzelh7,eth:0x0A5aF3AE2B7e8D33DB408B64fD4e00163634e1a9,sol:CbGUNwRiAZkJDhVMWkMqobdQGVtJYZcL3UMgtRzJVVJe)
+[![buy-me-a-bitcoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-f7931a?logo=bitcoin&logoColor=white&color=f7931a&style=flat&label=Donate)](https://buymeabitcoffee.vercel.app/btc/bc1qhae9un6j8mel5xcrd4trajm65wfunlltkzelh7?identifier=Buy+Me+a+Coffee)
 
 <!--- 
 
