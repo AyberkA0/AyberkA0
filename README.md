@@ -1,8 +1,8 @@
 ![Banner](https://readmewidgets.dev/AyberkA0/banner?v=1)
 
 <p align="center">
-  <img src="https://readmewidgets.dev/AyberkA0/github-stats?v=1" width="60%" />
-  <img src="https://readmewidgets.dev/AyberkA0/views?v=1" width="39%" />
+  <img src="https://readmewidgets.dev/AyberkA0/github-stats?v=1" width="67%" />
+  <img src="https://readmewidgets.dev/AyberkA0/views?v=1" width="32%" />
 </p>
 
 <!--- 
