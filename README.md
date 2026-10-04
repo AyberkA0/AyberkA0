@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="https://readmewidgets.dev/AyberkA0/banner?v=1" />
-</p>
+![Banner](https://readmewidgets.dev/AyberkA0/banner?v=1)
 
 <p align="center">
-  <img src="https://readmewidgets.dev/AyberkA0/github-stats?v=1" width="49%" />
-  <img src="https://readmewidgets.dev/AyberkA0/views?v=1" width="49%" />
+  <img src="https://readmewidgets.dev/AyberkA0/github-stats?v=1" width="70%" />
+  <img src="https://readmewidgets.dev/AyberkA0/views?v=1" width="29%" />
 </p>
-
 
 <!--- 
 
