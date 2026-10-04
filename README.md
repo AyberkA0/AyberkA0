@@ -5,14 +5,7 @@
   <img src="https://readmewidgets.dev/AyberkA0/views?v=1" width="32%" />
 </p>
 
-<p>
-  🟠 <b>BTC</b>
-  <a href="https://www.blockchain.com/explorer/addresses/btc/bc1qhae9un6j8mel5xcrd4trajm65wfunlltkzelh7">
-    View wallet
-  </a>
-</p>
-
-[![Crypto Payment](https://paybadge.profullstack.com/badge.svg)](https://paybadge.profullstack.com/?tickers=btc,eth,sol&recipient_addresses=btc:BTC_ADRESIN,eth:ETH_ADRESIN,sol:SOL_ADRESIN)
+[![Crypto Payment](https://paybadge.profullstack.com/badge.svg)](https://paybadge.profullstack.com/?tickers=btc,eth,sol&recipient_addresses=btc:bc1qhae9un6j8mel5xcrd4trajm65wfunlltkzelh7,eth:0x0A5aF3AE2B7e8D33DB408B64fD4e00163634e1a9,sol:CbGUNwRiAZkJDhVMWkMqobdQGVtJYZcL3UMgtRzJVVJe)
 
 <!--- 
 
