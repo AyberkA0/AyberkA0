@@ -12,12 +12,7 @@
   </a>
 </p>
 
-<p>
-  🔷 <b>ETH</b>
-  <a href="https://etherscan.io/address/0x0A5aF3AE2B7e8D33DB408B64fD4e00163634e1a9">
-    View wallet
-  </a>
-</p>
+[![Crypto Payment](https://paybadge.profullstack.com/badge.svg)](https://paybadge.profullstack.com/?tickers=btc,eth,sol&recipient_addresses=btc:BTC_ADRESIN,eth:ETH_ADRESIN,sol:SOL_ADRESIN)
 
 <!--- 
 
